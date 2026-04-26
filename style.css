@@ -216,4 +216,13 @@ li a {
 } 
 h3{
     margin-left: 200px;
+    margin-top: 50px;
+}
+.footer_logo{
+    max-height: 25px;
+    border-radius: 0px;
+}
+.footer_logo_2{
+    max-height: 25px;
+    border-radius: 0px;
 }
